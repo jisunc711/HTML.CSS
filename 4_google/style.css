@@ -109,7 +109,23 @@ body{
 
 .second-line{
     padding: 15px 30px;
+    font-size: 15px;
     font-family: Arial, sans-serif;
+}
+
+.span1-style{
+    font-family: Arial, sans-serif;
+}
+
+.span1-style a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.54);
+    padding-right: 15px;
+}
+
+.span1-style a:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 .span2-style{
@@ -117,16 +133,14 @@ body{
     font-family: Arial, sans-serif;
 }
 
-.span-a-style{
-    padding: 15px 30px;
-    font-size: 14px;
-    font-family: Arial, sans-serif;
+.span2-style a {
     text-decoration: none;
-    color: rgba(0, 0, 0, .54);
+    color: rgba(0, 0, 0, 0.54);
+    padding-right: 15px;
 
 }
 
-.span-a-style:hover{
+.span2-style a:hover{
     text-decoration: underline;
     cursor: pointer;
 }
