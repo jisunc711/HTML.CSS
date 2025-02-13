@@ -1,0 +1,23 @@
+.box{
+    border: 50px solid red;
+    width: 200px;
+    margin-top: 20px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.green{
+    border: 50px solid green;
+}
+.blue{
+    border: 50px solid blue;
+}
+
+.emerald{
+    border: 50px solid #1abc9c;
+    visibility:hidden
+}
+.sunflower{
+    border: 50px solid #f1c40f;
+    display:none
+}
